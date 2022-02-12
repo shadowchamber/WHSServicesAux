@@ -11,7 +11,7 @@
     <GenerateCrossReferences>True</GenerateCrossReferences>
     <RunAppCheckerRules>False</RunAppCheckerRules>
     <LogAppcheckerDiagsAsErrors>False</LogAppcheckerDiagsAsErrors>
-    <ProjectGuid>{8e62ef0b-c29f-4ea3-9b36-459b2f83a211}</ProjectGuid>
+    <ProjectGuid>{a54fa20c-13a8-420d-ac79-da36db0feda2}</ProjectGuid>
     <Name>WHSRFServicesAux</Name>
     <RootNamespace>WHSRFServicesAux</RootNamespace>
     <StartupType>Class</StartupType>
